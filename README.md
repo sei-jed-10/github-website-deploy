@@ -13,13 +13,13 @@
   # ![Created Repo](/images/repo-page.png)
 
 ## STEP 6: Go to your file using the Terminal
-- `cd fileName` // go inside the project file. 
-- `echo "# Project-name-sara" >> README.md` // to creat readme file
-- `git init` // to inisilize the Repository
+- `cd fileName` // Go inside the project file. 
+- `echo "# Project-name-sara" >> README.md` // To create readme file
+- `git init` // To initialize the Repository
 - `git remote add origin https://github.com/daghustani/Project-name-Sara.git` // To connect the local with github
-- `git add .` // to add you files into github
-- `git commit -m "your message"` // to take screen of what you have
-- `git push -u origin master` // will push everything to the Repository
+- `git add .` // To add you files into github
+- `git commit -m "your message"` // To take screen of what you have
+- `git push -u origin master` // Push to the Repository
 
  # ![Push Project](/images/command.png)
     

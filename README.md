@@ -12,7 +12,7 @@
 ## STEP 4: Click Create and this page will show
   # ![Created Repo](/images/repo-page.png)
 
-## STEP 6: Go to your file using the Terminal
+## STEP 5: Go to your file using the Terminal
 - `cd fileName` // Go inside the project file. 
 - `echo "# Project-name-sara" >> README.md` // To create readme file
 - `git init` // To initialize the Repository
@@ -23,18 +23,18 @@
 
  # ![Push Project](/images/command.png)
     
-## STEP 7: Open your repository in github
+## STEP 6: Open your repository in github
  # ![repo page](/images/repopage.png)
 
-## STEP 8: Go to settings. 
+## STEP 7: Go to settings. 
 # ![GITHUB Sitting](/images/settings.png)       
 
-## STEP 9: Scroll down to GitHub Pages where by default source in "None" 
+## STEP 8: Scroll down to GitHub Pages where by default source in "None" 
 # ![GITHUB pages](/images/github-pages.png)  
 
-## STEP 10: Change the source to be "master branch". 
+## STEP 9: Change the source to be "master branch". 
  # ![GITHUB Page](/images/master.png)       
     
-## STEP 11: Scroll down to GitHub Pages and Click the link and now you can see your website.
+## STEP 10: Scroll down to GitHub Pages and Click the link and now you can see your website.
  # ![GITHUB Published](/images/published-ready.png)
      
